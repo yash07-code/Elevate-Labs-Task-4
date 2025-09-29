@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Node.js modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Docker
+*.pid
