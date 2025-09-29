@@ -1,4 +1,4 @@
-# DevOps Git Project
+# Elevate-Labs-Task-4
 
 This project demonstrates Git best practices for managing a DevOps workflow.  
 It includes repository initialization, branching strategies, pull request workflows, version tagging, and task documentation.
